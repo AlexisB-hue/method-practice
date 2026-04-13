@@ -25,7 +25,7 @@ public  void main(String[] args) {
     sayHello hello = new sayHello();
     sayGoodbye goodbye = new sayGoodbye();
     sayGoodmorning goodmorning = new sayGoodmorning();
-    
+
 }
 
 
